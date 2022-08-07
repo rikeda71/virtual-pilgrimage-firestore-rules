@@ -1,0 +1,1 @@
+# virtual-pilgrimage-firestore-rules
